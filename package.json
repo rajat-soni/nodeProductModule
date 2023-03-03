@@ -1,0 +1,27 @@
+{
+  "name": "nodeproductmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mysql.js",
+  "scripts": {
+    "start": "nodemon mysql.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajat-soni/nodeProductModule.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajat-soni/nodeProductModule/issues"
+  },
+  "homepage": "https://github.com/rajat-soni/nodeProductModule#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
