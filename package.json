@@ -2,9 +2,9 @@
   "name": "nodeproductmodule",
   "version": "1.0.0",
   "description": "",
-  "main": "mysql.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon mysql.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
